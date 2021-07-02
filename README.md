@@ -1,8 +1,11 @@
 # AI bot for "Nine Men's Morris" Board Game
 
 Try NMM web app: [link](http://nmm.alexandros-kalogerakis.com/)
-
 > app is still in development, may encounter errors
+> 
+
+<img align="center" alt="Empty NMM board" width="400" height="400" src="NMM_board.png">
+
 
 ## Approach 1: *Minimax/Alpha Beta Pruning - Neural Networks*
 
