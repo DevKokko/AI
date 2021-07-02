@@ -4,9 +4,9 @@ Try NMM web app: [link](http://nmm.alexandros-kalogerakis.com/)
 > app is still in development, may encounter errors
 > 
 
-<p style="text-align: center">
+<div style="text-align: center">
 	<img align="center" alt="Empty NMM board" width="400" height="400" src="NMM_board.png">
-</p>
+</div>
 
 ## Approach 1: *Minimax/Alpha Beta Pruning - Neural Networks*
 
